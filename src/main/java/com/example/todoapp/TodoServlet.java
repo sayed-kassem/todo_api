@@ -12,7 +12,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-
 @WebServlet("/todos")
 public class TodoServlet extends HttpServlet {
 
